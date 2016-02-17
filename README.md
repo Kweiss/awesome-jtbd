@@ -16,7 +16,7 @@ Awesome Jobs to Be Done List
 - [Twitter](#twitter)
 
 #### Sites
-- **[jobstobedone.org](http://jobstobedone.org/)** Podcast and other resources
+- <b><a href="http://jobstobedone.org" target="_blank">jobstobedone.org</a><b> Podcast and other resources
 - **[JTBD on Quora](http://www.quora.com/Jobs-to-be-Done)**
 - **[JTBD Theory and Approach at Strategyn](http://strategyn.com/jobs-to-be-done/)** Since 1991 Strategyn has pioneered jobs-to-be-done (JTBD) theory and used it to help the world’s leading companies create hundreds of winning products.
 - **[Jobs To Be Done on Medium](https://medium.com/the-job-to-be-done)** Exploring how the Jobs-to-be-Done framework helps us create better products and define markets.
